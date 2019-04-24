@@ -1,0 +1,24 @@
+[x] nc_api
+[ ] nc_api_craft
+[ ] nc_fire
+[x] nc_guide
+[x] nc_items
+[ ] nc_lode
+[x] nc_nodefall
+[ ] nc_optics
+[x] nc_player_gui
+[x] nc_player_hand
+[x] nc_player_health
+[x] nc_player_hud
+[x] nc_player_model
+[x] nc_player_names
+[x] nc_player_pickup
+[x] nc_player_setup
+[x] nc_player_wield
+[ ] nc_sponge
+[x] nc_stats
+[x] nc_stonework
+[*] nc_terrain
+[x] nc_tote
+[x] nc_tree
+[x] nc_woodwork
