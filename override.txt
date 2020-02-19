@@ -1,1 +1,11 @@
 nc_woodwork:plank * nc_woodwork_plank_raw.png
+nc_terrain:cobble * nc_terrain_cobble_raw.png
+nc_terrain:dirt_with_grass sides nc_terrain_dirt.png^nc_terrain_grass_side.png
+nc_lux:cobble1 * nc_terrain_cobble_raw.png^((nc_lux_base.png^[mask:nc_lux_dot_mask.png)^[opacity:32)^nc_terrain_cobble.png
+nc_lux:cobble2 * nc_terrain_cobble_raw.png^((nc_lux_base.png^[mask:nc_lux_dot_mask.png)^[opacity:64)^nc_terrain_cobble.png
+nc_lux:cobble3 * nc_terrain_cobble_raw.png^((nc_lux_base.png^[mask:nc_lux_dot_mask.png)^[opacity:96)^nc_terrain_cobble.png
+nc_lux:cobble4 * nc_terrain_cobble_raw.png^((nc_lux_base.png^[mask:nc_lux_dot_mask.png)^[opacity:128)^nc_terrain_cobble.png
+nc_lux:cobble5 * nc_terrain_cobble_raw.png^((nc_lux_base.png^[mask:nc_lux_dot_mask.png)^[opacity:160)^nc_terrain_cobble.png
+nc_lux:cobble6 * nc_terrain_cobble_raw.png^((nc_lux_base.png^[mask:nc_lux_dot_mask.png)^[opacity:192)^nc_terrain_cobble.png
+nc_lux:cobble7 * nc_terrain_cobble_raw.png^((nc_lux_base.png^[mask:nc_lux_dot_mask.png)^[opacity:224)^nc_terrain_cobble.png
+nc_lux:cobble8 * nc_terrain_cobble_raw.png^(nc_lux_base.png^[mask:nc_lux_dot_mask.png)^nc_terrain_cobble.png
